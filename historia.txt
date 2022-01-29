@@ -1,2 +1,5 @@
-Holaaaaaaa soy Sergio de Colombia y voy aprendiendo Git y Github.
+Holaaaaaaa soy Sergio de Colombia, voy aprendiendo Git y Github.
 Y tengo 18 años.
+
+Me gusta Git y ya quiero aprender Github.
+Probando probando.
