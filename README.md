@@ -4,4 +4,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 > Hola :D
 * Probando cherry-pick
 * XD
+* Estoy a punto de terminar
 
